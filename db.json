@@ -1,0 +1,19 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "title": "learn redux",
+      "status": false
+    },
+    {
+      "data": "bhavisha",
+      "status": false,
+      "id": 2
+    },
+    {
+      "data": "",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
